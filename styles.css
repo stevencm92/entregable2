@@ -1,0 +1,63 @@
+#papa1 {
+  background-color: aqua;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.papa2 {
+  width: 98%;
+  height: 480px;
+  /* background-color: red;*/
+  margin: 1px;
+  margin-top: -2px;
+
+  display: flex;
+
+  flex-direction: row;
+}
+
+.papa3 {
+  width: 75%;
+  margin: 8px;
+  margin-top: -0.2px;
+  height: 465px;
+  display: flex;
+  flex-direction: column;
+}
+
+.papa4 {
+  width: 100%;
+  height: 50%;
+  display: flex;
+  flex-direction: row;
+}
+
+.papa5 {
+  width: 100%;
+  height: 50%;
+  display: flex;
+  flex-direction: row;
+}
+.hijosA {
+  width: 97%;
+  height: 200px;
+  background-color: coral;
+  margin: 8px;
+}
+.hijosCorales {
+  width: 100%;
+  height: 98%;
+  background-color: coral;
+  margin-right: 8px;
+  margin-top: 8px;
+}
+
+.hijosH {
+  width: 25%;
+  height: 300px;
+  background-color: coral;
+  margin: 8px;
+  height: 461px;
+}
